@@ -2,7 +2,7 @@
 import os
 import random
 import logging
-
+# 22
 import discord
 from dotenv import load_dotenv
 from discord.ext import commands

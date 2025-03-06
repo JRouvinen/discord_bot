@@ -1,6 +1,6 @@
 #ping.py
 #!/usr/bin/env python3
-
+# 44
 import os
 
 def ping_homelab():
